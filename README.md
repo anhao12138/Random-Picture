@@ -1,6 +1,6 @@
 # Random-Picture
 
-随机图片 apihhh
+随机图片 api
 
 ## 实验地址:
 
